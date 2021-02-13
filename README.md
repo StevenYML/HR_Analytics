@@ -1,4 +1,4 @@
-# HR_Analytics
+# HR Analytics
 ## Preface:
 As an company, we want to use HR data on employee features to model a classification problem and predict the probability of whether or not an employee will be looking for a new job / leave the company (before it actually happens), or is likely stay and continue working in the company.
 
